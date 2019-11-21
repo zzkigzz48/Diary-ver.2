@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "758113040947",
+    "firebase_url": "https://nagidiary2.firebaseio.com",
+    "project_id": "nagidiary2",
+    "storage_bucket": "nagidiary2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758113040947:android:b461a3b470bac071c30146",
+        "android_client_info": {
+          "package_name": "com.example.nagidiary2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758113040947-lboacm79jdgea7ekg3cnh8mscqhnvt4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nagidiary2",
+            "certificate_hash": "141f5901331d07f94403987bae637c3e78747d2f"
+          }
+        },
+        {
+          "client_id": "758113040947-o6nkgd1rnipvmonr9ors4g9lj2bc91sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk6y4tTfE2B70dJ-3JOwlF5EFd8ANRx3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758113040947-o6nkgd1rnipvmonr9ors4g9lj2bc91sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
